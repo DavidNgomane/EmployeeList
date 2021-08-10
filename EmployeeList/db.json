@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstName": "Nokubonga",
+      "lastName": "Ngomane",
+      "email": "bongan@gmail.com",
+      "mobile": "0762559761",
+      "salary": "R 40,000"
+    },
+    {
+      "id": 3,
+      "firstName": "test1",
+      "lastName": "Test",
+      "email": "test@gmai.com",
+      "mobile": "1234566789",
+      "salary": "R 30,000"
+    },
+    {
+      "id": 4,
+      "firstName": "test2",
+      "lastName": "test2",
+      "email": "test2@gmail.com",
+      "mobile": "1234567890",
+      "salary": "R 40, 0000"
+    },
+    {
+      "id": 5,
+      "firstName": "David",
+      "lastName": "Ngomane",
+      "email": "ngomane.david@gmail.com",
+      "mobile": "0789992292",
+      "salary": "R 50,0000"
+    },
+    {
+      "id": 6,
+      "firstName": "Nokubonga",
+      "lastName": "Ngomane",
+      "email": "bongan@gmail.com",
+      "mobile": "0762559761",
+      "salary": "R 40"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
